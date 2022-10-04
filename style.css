@@ -1,0 +1,19 @@
+body{
+    background-image: radial-gradient(blueviolet, blue, violet);
+    text-align: center;
+}
+.main-form>h1{
+    padding-top: 20px;
+    text-transform: uppercase;
+    text-decoration: underline;
+}
+.main-form{
+    border: 1px solid black;
+    margin-left: 35%;
+    margin-top: 10%;
+    margin-right: 35%;
+    box-sizing: border-box;
+    background-color:aliceblue;
+    border-radius: 20px;
+    padding-bottom: 20px;
+}
